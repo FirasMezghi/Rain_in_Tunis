@@ -9,7 +9,7 @@ itsdangerous
 Jinja2
 joblib 
 MarkupSafe 
-mkl-service==2.4.0
+nomkl
 numexpr 
 numpy 
 packaging 
