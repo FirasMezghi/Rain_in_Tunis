@@ -9,7 +9,6 @@ itsdangerous
 Jinja2
 joblib 
 MarkupSafe 
-nomkl
 numexpr 
 numpy 
 packaging 
@@ -17,7 +16,7 @@ pandas
 pyparsing 
 python-dateutil 
 pytz==2021.3
-scikit-learn=0.18.1=np111py27_nomkl_0 
+scikit-learn
 scipy 
 six 
 threadpoolctl 
