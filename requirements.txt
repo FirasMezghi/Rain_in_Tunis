@@ -1,7 +1,9 @@
 Bottleneck 
 certifi==2021.10.8
 click==8.0.3 
+colorama 
 Flask 
+Flask-Cors
 gunicorn==20.1.0
 imbalanced-learn 
 itsdangerous 
