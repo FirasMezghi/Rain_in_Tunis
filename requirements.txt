@@ -17,7 +17,7 @@ pandas
 pyparsing 
 python-dateutil 
 pytz==2021.3
-scikit-learn 
+scikit-learn=0.18.1=np111py27_nomkl_0 
 scipy 
 six 
 threadpoolctl 
