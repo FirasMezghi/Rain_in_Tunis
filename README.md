@@ -17,7 +17,7 @@ check out https://github.com/FirasMezghi/Rain_in_Tunis/blob/main/modeling_rain_.
 after trainning a bunch of models , XGboost had the best score.
 check out https://github.com/FirasMezghi/Rain_in_Tunis/blob/main/modeling_rain_.ipynb
 
-##step5: deployment
+## step5: deployment
 I used flask to web app where i deployed the model.
 check out the demo video 
 
