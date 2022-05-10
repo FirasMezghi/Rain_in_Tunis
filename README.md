@@ -19,6 +19,7 @@ check out https://github.com/FirasMezghi/Rain_in_Tunis/blob/main/modeling_rain_.
 
 ## step5: deployment
 I used flask to web app where i deployed the model.
-check out the demo video 
+check out the demo video https://drive.google.com/file/d/15GhThA1DC_2aQkO8O5X6dE1V40XAF3qH/view?usp=sharing
+
 
 
